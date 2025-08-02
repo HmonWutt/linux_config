@@ -1,0 +1,14 @@
+G-go to the bottom of the page
+gg-go to the top of the page
+A-append at the end of the line
+I-insert at the start of the line
+x-delete character at current position of the cursor
+X-works like backspace
+I-insert at the start of current line
+A-append at the end of current line
+o-start writing on the line below the current line
+O-start writing on the line above
+ctrl+w then l/h to switch between windows
+space+e -toggle file tree
+while in file tree, press e to rename file
+press q to quit healthcheck buffer

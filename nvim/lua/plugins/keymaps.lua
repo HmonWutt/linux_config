@@ -18,8 +18,8 @@ vim.keymap.set("n", "<leader>il", ":Twilight<cr>")
 -- zen mode
 vim.keymap.set("n", "<leader>zm", ":ZenMode<cr>")
 
--- format code using LSP
--- vim.keymap.set("n", "<leader>pp", vim.lsp.buf.format)
+--format code using LSP
+vim.keymap.set("n", "<leader>pp", vim.lsp.buf.format)
 
 -- markdown preview
 vim.keymap.set("n", "<leader>mp", ":MarkdownPreviewToggle<cr>")
@@ -55,4 +55,5 @@ vim.keymap.set("n", "<cr>", function()
     vim.api.nvim_feedkeys(vim.api.nvim_replace_termcodes("<cr>", true, false, true), "n", false)
   end
 end, { desc = "Run Python file or default Enter" })
+
 

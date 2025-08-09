@@ -8,7 +8,31 @@ I-insert at the start of current line
 A-append at the end of current line
 o-start writing on the line below the current line
 O-start writing on the line above
-ctrl+w then l/h to switch between windows
-space+e -toggle file tree
+ctrl+w then l/h to switch between windows in nvim
+mod+h, mod+l ----in regular window
+space+e -toggle file tree while in nvim
 while in file tree, press e to rename file
 press q to quit healthcheck buffer
+spacebar +y- to copy to clipboard in nvim
+spacebar +v to paste to nvim
+     
+Quick Workflow
+
+Start debugging: <F5>
+Add watch: <Leader>dw and type your expression
+Evaluate current word: Put cursor on variable and press <Leader>de
+Evaluate selection: Select text and press <Leader>de
+Step through code: <F10> and watch your expressions update
+
+DAP UI Navigation
+In the watches panel:
+a - Add new watch
+d - Delete watch
+e - Edit watch
+r - Refresh watches
+<CR> - Expand/collapse
+
+scrot                      # Full screen, saves to current directory
+scrot -s                   # Select area with mouse
+scrot -u                   # Current focused window
+scrot ~/Pictures/%Y-%m-%d_%T.png  # With custom filename/path

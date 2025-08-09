@@ -1,0 +1,156 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="DSA-37eaea7e">
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="2" column="19" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/sub/sub/hello.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/DSA/settings.gradle.kts" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/DSA/build.gradle.kts" protocol="file" />
+      <jump line="1" column="18" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="3" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="2" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="7" column="14" filename="$USER_HOME$/IdeaProjects/DSA/build.gradle.kts" protocol="file" />
+      <jump line="19" column="20" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="21" column="5" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="20" column="29" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="22" column="21" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="24" column="47" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="23" column="30" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="7" column="7" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="6" column="8" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="13" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="16" column="1" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="14" column="4" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="45" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="49" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="55" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="81" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="82" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="83" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="23" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="57" column="12" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="58" column="8" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="63" column="7" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="12" column="21" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="71" column="14" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="34" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="39" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="43" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="22" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="18" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="9" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="13" column="7" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="8" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="10" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="11" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="65" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="14" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="56" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="61" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="46" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="90" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="50" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="54" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="62" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="36" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="37" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="40" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="41" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="44" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/DSA/.gitignore" protocol="file" />
+      <jump line="6" column="7" filename="$USER_HOME$/IdeaProjects/DSA/.gitignore" protocol="file" />
+      <jump line="17" column="0" filename="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" protocol="file" />
+      <jump line="8" column="5" filename="$USER_HOME$/IdeaProjects/DSA/.gitignore" protocol="file" />
+      <jump line="11" column="1" filename="$USER_HOME$/IdeaProjects/DSA/.gitignore" protocol="file" />
+      <jump line="45" column="9" filename="$USER_HOME$/IdeaProjects/DSA/.gitignore" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$USER_HOME$/IdeaProjects/DSA/build.gradle.kts" timestamp="1754562906748">
+        <mark key="&quot;" line="7" column="14" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DSA/settings.gradle.kts" timestamp="1754562714681">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DSA/.gitignore" timestamp="1754685036077">
+        <mark key="&quot;" line="8" column="5" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/Main.java" timestamp="1754684377566">
+        <mark key="[" line="14" column="28" />
+        <mark key="]" line="14" column="28" />
+        <mark key="." line="14" column="28" />
+        <mark key="^" line="14" column="31" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/sub/sub/hello.java" timestamp="1754562591476">
+        <mark key="&quot;" line="2" column="19" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java" timestamp="1754683821098">
+        <mark key="[" line="8" column="23" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="11" column="28" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBsbC5pbnNlcnRGaXJzdCg0KTsK</text>
+      </register>
+      <register name="&quot;" type="CHARACTER_WISE">
+        <text encoding="base64">NA==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICB0YWlsID0gaGVhZC5uZXh0Owo=</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICB0YWlsLm5leHQgPSB0ZW1wOwo=</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBOb2RlIHRlbXAgPSB0YWlsOwo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgaQo=</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBmb3IgKGludCBpID0gMDsgaSA8IHNpemU7IGkrKyl7Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgIWhlYWQgOgo=</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">ICAgICAgICBkZHByaXZhdGUK</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">NA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">NA==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

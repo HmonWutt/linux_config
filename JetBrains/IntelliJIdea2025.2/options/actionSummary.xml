@@ -1,0 +1,199 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Copy">
+      <i c="1" l="1754566999794" />
+    </e>
+    <e n="$Delete">
+      <i c="2" l="1754574048225" />
+    </e>
+    <e n="$Redo">
+      <i c="4" l="1754683922123" />
+    </e>
+    <e n="$Undo">
+      <i c="3" l="1754683918633" />
+    </e>
+    <e n="AddBom">
+      <i c="1" l="1754581387169" />
+    </e>
+    <e n="Annotate">
+      <i c="1" l="1754580419340" />
+    </e>
+    <e n="AutoIndentLines">
+      <i c="3" l="1754586623518" />
+    </e>
+    <e n="CollapseSelection">
+      <i c="1" l="1754683906477" />
+    </e>
+    <e n="CommentByLineComment">
+      <i c="11" l="1754684013587" />
+    </e>
+    <e n="Debug">
+      <i c="14" l="1754684470189" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="692" l="1754685541695" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="4" l="1754562885228" />
+    </e>
+    <e n="EditorEnter">
+      <i c="112" l="1754685535956" />
+    </e>
+    <e n="EditorEscape">
+      <i c="116" l="1754683968672" />
+    </e>
+    <e n="EditorTab">
+      <i c="24" l="1754594054183" />
+    </e>
+    <e n="EditorTabsEntryPoint">
+      <i c="1" l="1754562831154" />
+    </e>
+    <e n="EditorUnindentSelection">
+      <i c="1" l="1754587518815" />
+    </e>
+    <e n="Exit">
+      <i c="1" l="1754567140070" />
+    </e>
+    <e n="ExpandLiveTemplateByTab">
+      <i c="6" l="1754587647892" />
+    </e>
+    <e n="GotoTypeDeclaration">
+      <i c="1" l="1754685403484" />
+    </e>
+    <e n="HippieCompletion">
+      <i c="1" l="1754594322505" />
+    </e>
+    <e n="InsertInlineCompletionAction">
+      <i c="11" l="1754583100724" />
+    </e>
+    <e n="MaximizeToolWindow">
+      <i c="1" l="1754581342678" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1754562515634" />
+    </e>
+    <e n="MoveStatementDown">
+      <i c="32" l="1754582443267" />
+    </e>
+    <e n="MoveStatementUp">
+      <i c="28" l="1754582443856" />
+    </e>
+    <e n="NewClass">
+      <i c="2" l="1754583029619" />
+    </e>
+    <e n="NewDir">
+      <i c="2" l="1754562323137" />
+    </e>
+    <e n="OptimizeImports">
+      <i c="1" l="1754582776566" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="6" l="1754581839485" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="2" l="1754562804036" />
+    </e>
+    <e n="ReformatCode">
+      <i c="1" l="1754582760336" />
+    </e>
+    <e n="RemoveBom">
+      <i c="1" l="1754581458811" />
+    </e>
+    <e n="Run">
+      <i c="56" l="1754684443832" />
+    </e>
+    <e n="SettingsEntryPoint">
+      <i c="7" l="1754582293861" />
+    </e>
+    <e n="ShowIntentionActions">
+      <i c="2" l="1754581841610" />
+    </e>
+    <e n="ShowSettings">
+      <i c="31" l="1754587189446" />
+    </e>
+    <e n="StepInto">
+      <i c="134" l="1754684489335" />
+    </e>
+    <e n="Stop">
+      <i c="6" l="1754684504633" />
+    </e>
+    <e n="Switcher">
+      <i c="4" l="1754587005764" />
+    </e>
+    <e n="Terminal.Paste">
+      <i c="6" l="1754685494387" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="12" l="1754684465910" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="1" l="1754560963184" />
+    </e>
+    <e n="com.intellij.build.BuildTreeConsoleView$ConsoleViewHandler$2">
+      <i c="4" l="1754587758917" />
+    </e>
+    <e n="com.intellij.codeInsight.inline.completion.tooltip.InlineCompletionPopupActionGroup">
+      <i c="1" l="1754583235941" />
+    </e>
+    <e n="com.intellij.execution.actions.CreateAction">
+      <i c="1" l="1754581496213" />
+    </e>
+    <e n="com.intellij.execution.runners.RunContentBuilder$3">
+      <i c="2" l="1754581494392" />
+    </e>
+    <e n="com.intellij.ml.inline.completion.impl.inline.MLCompletionGoToSettingsAction">
+      <i c="1" l="1754583238757" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="711" l="1754685541691" />
+    </e>
+    <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
+      <i c="2" l="1754587760856" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1754685033757" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1754685036059" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="4" l="1754684506221" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="22" l="1754685190585" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="32" l="1754587187593" />
+    </e>
+    <e n="com.intellij.platform.debugger.impl.frontend.hotswap.HotSwapWithRebuildAction">
+      <i c="3" l="1754684380529" />
+    </e>
+    <e n="com.intellij.terminal.frontend.action.SendShortcutToTerminalAction">
+      <i c="33" l="1754685703757" />
+    </e>
+    <e n="com.intellij.toolWindow.ShowMoreToolWindowsAction">
+      <i c="1" l="1754561949085" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="2" l="1754581372286" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$ShowOptionsAction">
+      <i c="2" l="1754562827297" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveDownAction">
+      <i c="2" l="1754586934307" />
+    </e>
+    <e n="com.intellij.ui.ScrollingUtil$ListMoveUpAction">
+      <i c="1" l="1754586925396" />
+    </e>
+    <e n="com.intellij.xdebugger.impl.breakpoints.RemoveBreakpointGutterIconAction">
+      <i c="12" l="1754684467007" />
+    </e>
+    <e n="context.save">
+      <i c="1" l="1754566902074" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="1" l="1754562805717" />
+    </e>
+  </component>
+</application>

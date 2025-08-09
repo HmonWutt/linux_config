@@ -1,0 +1,29 @@
+<application>
+  <component name="DimensionService">
+    <size key="GridCell.Tab.0.left.0.0.1920.1080" width="872" height="567" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080" width="872" height="567" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080" width="872" height="567" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="872" height="567" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1810" height="404" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1810" height="404" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1810" height="404" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1810" height="404" />
+    <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1810" height="404" />
+    <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1810" height="404" />
+    <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1810" height="404" />
+    <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1810" height="404" />
+  </component>
+  <component name="WindowManager">
+    <frame x="3" y="6" width="636" height="1071" extendedState="4" />
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="263" y="275" width="426" height="481" key="FileChooserDialogImpl" timestamp="1754560982152">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="263" y="275" width="426" height="481" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1754560982152" />
+    <state width="572" height="138" key="ShowUsagesActions.dimensionServiceKey" timestamp="1754585182924">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="572" height="138" key="ShowUsagesActions.dimensionServiceKey/0.0.1920.1080" timestamp="1754585182924" />
+  </component>
+</application>

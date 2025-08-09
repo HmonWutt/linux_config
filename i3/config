@@ -99,7 +99,7 @@ bindsym $mod+f fullscreen toggle
 # change container layout (stacked, tabbed, toggle split)
 bindsym $mod+s layout stacking
 # bindsym $mod+w layout tabbed
-# bindsym $mod+e layout toggle split
+bindsym $mod+e layout toggle split
 
 # toggle tiling / floating
 bindsym $mod+Shift+space floating toggle
@@ -213,3 +213,8 @@ client.focused          #C8A2C8 #C8A2C8 #FFFFFF #C8A2C8
 #gaps between tiles
 gaps inner 3px
 gaps outer 0px
+
+# Screenshots with scrot
+bindsym Print exec --no-startup-id scrot ~/Pictures/%Y-%m-%d_%T.png
+bindsym Shift+Print exec --no-startup-id scrot -s ~/Pictures/%Y-%m-%d_%T.png
+bindsym $mod+Print exec --no-startup-id scrot -u ~/Pictures/%Y-%m-%d_%T.png

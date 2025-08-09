@@ -19,7 +19,7 @@ vim.keymap.set("n", "<leader>il", ":Twilight<cr>")
 vim.keymap.set("n", "<leader>zm", ":ZenMode<cr>")
 
 --format code using LSP
-vim.keymap.set("n", "<leader>pp", vim.lsp.buf.format)
+vim.keymap.set("n", "<leader>f", vim.lsp.buf.format)
 
 -- markdown preview
 vim.keymap.set("n", "<leader>mp", ":MarkdownPreviewToggle<cr>")
@@ -49,7 +49,7 @@ vim.keymap.set("n", "<cr>", function()
   if vim.bo.filetype == "python" then
     local file = vim.fn.expand("%")
     vim.cmd("write") -- Save first
-    vim.cmd("!python3 " .. vim.fn.shellescape(file) .. " && echo 'Press any key to continue...' && read")
+    vim.cmd("!python3 " .. vim.fn.shellescape(file) .. "") --" && echo 'Press any key to continue...' && read")
   else
     -- Preserve default Enter behavior
     vim.api.nvim_feedkeys(vim.api.nvim_replace_termcodes("<cr>", true, false, true), "n", false)

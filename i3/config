@@ -30,6 +30,9 @@ exec --no-startup-id dex --autostart --environment i3
 # screen before suspend. Use loginctl lock-session to lock your screen.
 exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 
+# xautolock will automatically lock the screen after 5 minutes of inactivity
+exec --no-startup-id xautolock -time 5 -locker "i3lock --nofork"
+
 # NetworkManager is the most popular way to manage wireless networks on Linux,
 # and nm-applet is a desktop environment-independent system tray GUI for it.
 exec --no-startup-id nm-applet
@@ -111,10 +114,11 @@ bindsym $mod+space focus mode_toggle
 bindsym $mod+a focus parent
 
 # focus the child container
+# NOTE: Enabling this will conflict with dmenu ($mod+d) on line 62
 #bindsym $mod+d focus child
 
-default_border pixel 1
-default_floating_border pixel 1
+default_border pixel 1px
+default_floating_border pixel 1px
 # Define names for default workspaces for which we configure key bindings later on.
 # We use variables to avoid repeating the names in multiple places.
 set $ws1 "1"
@@ -173,7 +177,7 @@ mode "resize" {
         bindsym l resize grow width 10 px or 10 ppt
 
         # same bindings, but for the arrow keys
-        bindsym Left resize shrinkiii width 10 px or 10 ppt
+        bindsym Left resize shrink width 10 px or 10 ppt
         bindsym Down resize grow height 10 px or 10 ppt
         bindsym Up resize shrink height 10 px or 10 ppt
         bindsym Right resize grow width 10 px or 10 ppt
@@ -195,7 +199,8 @@ bar {
        # status_command /home/hmon/my-i3-status/node_modules/.bin/i3-status -c /home/hmon/my-i3-status/config.yml 
         position top
        	status_command i3blocks
-	font pango:FontAwesome 11
+	# font pango:FontAwesome 11
+	font pango:JetBrains Mono 10
 	workspace_buttons yes
 	colors {
         background #1d1f21

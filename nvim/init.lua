@@ -1,7 +1,7 @@
 require("keymaps")
 require("options")
-require("plugins.lazy")
-require("plugins.keymaps")
-require("plugins.options")
+require("config.lazy")
+require("config.keymaps")
+require("config.options")
 
 

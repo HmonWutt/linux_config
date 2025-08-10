@@ -6,19 +6,26 @@ COLOR_PAUSE="#ffff00"    # Yellow for paused
 COLOR_STOP="#FFA500"     # Orange for no music
 
 # Get metadata
-STATUS=$(playerctl status 2>/dev/null)
+# Get all metadata in a single call using tab delimiter
+METADATA=$(playerctl metadata --format $'{{status}}\t{{artist}}\t{{title}}' 2>/dev/null)
+
+if [ -n "$METADATA" ]; then
+    STATUS=$(echo "$METADATA" | cut -d$'\t' -f1)
+    ARTIST=$(echo "$METADATA" | cut -d$'\t' -f2)
+    TITLE=$(echo "$METADATA" | cut -d$'\t' -f3)
+else
+    STATUS=""
+    ARTIST=""
+    TITLE=""
+fi
 
 if [ "$STATUS" = "Playing" ]; then
     ICON="󰧔"  #"󰽰"   #""
     COLOR=$COLOR_PLAY
-    ARTIST=$(playerctl metadata artist)
-    TITLE=$(playerctl metadata title)
     TEXT="$ICON $ARTIST  $TITLE"
 elif [ "$STATUS" = "Paused" ]; then
     ICON="⏸"
     COLOR=$COLOR_PAUSE
-    ARTIST=$(playerctl metadata artist)
-    TITLE=$(playerctl metadata title)
     TEXT="$ICON $ARTIST  $TITLE"
 else
     ICON="󰝛"

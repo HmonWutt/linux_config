@@ -36,3 +36,100 @@ scrot                      # Full screen, saves to current directory
 scrot -s                   # Select area with mouse
 scrot -u                   # Current focused window
 scrot ~/Pictures/%Y-%m-%d_%T.png  # With custom filename/path
+
+todo-----------
+auto format
+
+
+You have several ways to close the terminal:
+
+  From within the terminal (in insert mode):
+  - Type exit and press Enter
+  - Press Ctrl+d (sends EOF to close the shell)
+
+  From terminal mode (press Esc first to exit insert mode):
+  - Press <leader>t (your existing toggleterm keybind)
+  - Use :q or :bd to close the buffer
+
+  From anywhere in Neovim:
+  - Press <leader>t (toggles the last terminal on/off)
+
+  Window navigation:
+  - Ctrl+w w - Switch between windows
+  - Ctrl+w q - Close current window (if focused on terminal)
+
+  The easiest way:
+  Just press <leader>t from anywhere - it will toggle the
+  terminal closed. If you run another Python file with
+  <leader><cr>, it will reuse the same terminal or create a new
+  one as needed.
+
+  Pro tip: You can also use Ctrl+\ Ctrl+n while in the terminal
+  to quickly exit insert mode without closing the terminal, then
+  navigate back to your code.
+
+> how do i clear the terminal
+
+● You can clear the terminal in several ways:
+
+  Standard terminal commands:
+  - Type clear and press Enter
+  - Press Ctrl+l (most common shortcut)
+
+  From terminal insert mode:
+  - Ctrl+l - Clears screen immediately
+  - Type clear + Enter - Clears screen and command history
+
+  From terminal normal mode (press Esc first):
+  - Ctrl+l still works
+  - Or type :!clear + Enter
+
+  The fastest way:
+  Just press Ctrl+l while in the terminal - this is the universal
+   terminal clear shortcut that works in most shells (bash, zsh,
+  fish, etc.).
+
+  Note: clear only clears the visible screen but keeps the
+  scrollback history. If you want to completely wipe the terminal
+   history, you might need shell-specific commands like:
+  - reset - Full terminal reset
+  - clear && printf '\e[3J' - Clear screen and scrollback buffer
+
+  For most cases, Ctrl+l is what you want - quick, easy, and
+  universal.
+
+  Window Navigation (General):
+  - Ctrl+w h - Move to left panel
+  - Ctrl+w j - Move to bottom panel
+  - Ctrl+w k - Move to top panel
+  - Ctrl+w l - Move to right panel
+  - Ctrl+w w - Cycle through all windows
+  - Ctrl+w p - Go to previous window
+
+  DAP-specific Navigation:
+  When debugging with DAP UI open:
+  - Navigate to debug panels (breakpoints,
+  scopes, watches) using Ctrl+w + direction
+  - Click on panels to focus them
+  - Use <Leader>du to toggle the entire DAP UI
+
+  Buffer Navigation (Your current keymaps):
+  - Tab - Next buffer (BufferLineCycleNext)
+  - Shift+Tab - Previous buffer
+  (BufferLineCyclePrev)
+  - <Leader>1, <Leader>2 - Jump to specific
+  buffer numbers
+
+  Terminal Navigation:
+  - Ctrl+\ Ctrl+n - Exit terminal insert mode
+  (then you can navigate away)
+  - <Leader>t - Toggle terminal on/off
+
+  Quick Panel Switching:
+  - <Leader>e - Toggle file tree (NvimTree)
+  - <Leader>dr - Open DAP REPL
+  - <Leader>du - Toggle DAP UI
+
+  Pro tip: The fastest way is usually Ctrl+w w
+  to cycle through all open windows, or Ctrl+w
+  + arrow keys for directional movement.

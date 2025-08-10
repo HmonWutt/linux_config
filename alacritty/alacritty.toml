@@ -2,8 +2,9 @@
 size = 7.0
 
 [font.normal]
-family = "JetBrians Mono, Noto Color Emoji"
+family = "JetBrains Mono"
 style = "Regular"
 
 [window]
 opacity = 0.8
+

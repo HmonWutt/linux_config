@@ -4,17 +4,17 @@
     <size key="GridCell.Tab.0.center.0.0.1920.1080" width="872" height="567" />
     <size key="GridCell.Tab.0.right.0.0.1920.1080" width="872" height="567" />
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="872" height="567" />
-    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="1810" height="404" />
-    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="1810" height="404" />
-    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="1810" height="404" />
-    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="1810" height="404" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="534" height="405" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="534" height="405" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="534" height="405" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="534" height="405" />
     <size key="GridCell.Tab.1.left.0.0.1920.1080@120dpi" width="1810" height="404" />
     <size key="GridCell.Tab.1.center.0.0.1920.1080@120dpi" width="1810" height="404" />
     <size key="GridCell.Tab.1.right.0.0.1920.1080@120dpi" width="1810" height="404" />
     <size key="GridCell.Tab.1.bottom.0.0.1920.1080@120dpi" width="1810" height="404" />
   </component>
   <component name="WindowManager">
-    <frame x="3" y="6" width="636" height="1071" extendedState="4" />
+    <frame x="641" y="5" width="638" height="1072" extendedState="4" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="263" y="275" width="426" height="481" key="FileChooserDialogImpl" timestamp="1754560982152">

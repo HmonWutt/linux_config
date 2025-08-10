@@ -17,17 +17,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf ideFingerprint="1pm1nkhtn4ba1" SIDE_TABS_SIZE_LIMIT_KEY="-1">
-      <file>
+      <file current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java" file-id="136" managing-fs="1754508739190">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="150">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="519">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
-        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-2104859,"textAttributes":{"name":"a"},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
+        <tab><![CDATA[{"tabTitle":"Main.java","foregroundColor":-9392385,"textAttributes":{"name":"a","children":[{"name":"option","attributes":{"name":"FOREGROUND","value":"70aeff"}}]},"icon":[10,57,99,111,109,46,105,110,116,101,108,108,105,106,46,117,105,46,105,99,111,110,115,46,82,97,115,116,101,114,105,122,101,100,73,109,97,103,101,68,97,116,97,76,111,97,100,101,114,68,101,115,99,114,105,112,116,111,114,18,62,10,15,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,18,21,101,120,112,117,105,47,110,111,100,101,115,47,99,108,97,115,115,46,115,118,103,26,12,99,111,109,46,105,110,116,101,108,108,105,106,40,-63,-37,-81,-57,4,48,0]}]]></tab>
       </file>
-      <file current-in-tab="true">
+      <file>
         <entry file="file://$PROJECT_DIR$/.gitignore" file-id="122" managing-fs="1754508739190">
           <provider editor-type-id="text-editor" selected="true">
             <state relative-caret-position="338">
@@ -40,11 +40,11 @@
       <file>
         <entry file="file://$PROJECT_DIR$/src/main/java/org/example/LinkedList.java" file-id="163702" managing-fs="1754508739190">
           <provider editor-type-id="text-editor" selected="true">
-            <state relative-caret-position="419">
+            <state relative-caret-position="1144">
               <caret line="44" selection-start-line="44" selection-end-line="44" />
               <folding>
-                <element signature="e#1992#1993#0" expanded="true" />
-                <element signature="e#2040#2041#0" expanded="true" />
+                <element signature="e#2080#2081#0" expanded="true" />
+                <element signature="e#2128#2129#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -56,24 +56,24 @@
   <component name="FileTypeUsageLocalSummary"><![CDATA[{
   "data": {
     "JAVA": {
-      "usageCount": 8,
-      "lastUsed": 1754681606446
+      "usageCount": 10,
+      "lastUsed": 1754828379017
     },
     "Kotlin": {
       "usageCount": 2,
       "lastUsed": 1754562555376
     },
     "GitIgnore file": {
-      "usageCount": 2,
-      "lastUsed": 1754685522302
+      "usageCount": 3,
+      "lastUsed": 1754828378787
     }
   }
 }]]></component>
   <component name="IdeDocumentHistory"><![CDATA[{
   "changedPaths": [
     "/home/hmon/IdeaProjects/DSA/src/main/java/org/example/LinkedList.java",
-    "/home/hmon/IdeaProjects/DSA/src/main/java/org/example/Main.java",
-    "/home/hmon/IdeaProjects/DSA/.gitignore"
+    "/home/hmon/IdeaProjects/DSA/.gitignore",
+    "/home/hmon/IdeaProjects/DSA/src/main/java/org/example/Main.java"
   ]
 }]]></component>
   <component name="IgnoredFileRootStore">
@@ -85,10 +85,10 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="GitIgnore">
-      <summary usageCount="2" lastUsage="1754685522302" />
+      <summary usageCount="3" lastUsage="1754828378789" />
     </language>
     <language id="JAVA">
-      <summary usageCount="8" lastUsage="1754681606446" />
+      <summary usageCount="10" lastUsage="1754828379017" />
     </language>
     <language id="kotlin">
       <summary usageCount="2" lastUsage="1754562555376" />
@@ -138,16 +138,6 @@
             <path>
               <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
               <item name="dir{file:///home/hmon/IdeaProjects/DSA}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="dir{file:///home/hmon/IdeaProjects/DSA/.gradle}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/hmon/IdeaProjects/DSA}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="dir{file:///home/hmon/IdeaProjects/DSA/build}" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
-              <item name="dir{file:///home/hmon/IdeaProjects/DSA}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="dir{file:///home/hmon/IdeaProjects/DSA/gradle}" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -155,6 +145,32 @@
               <item name="dir{file:///home/hmon/IdeaProjects/DSA}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="dir{file:///home/hmon/IdeaProjects/DSA/gradle}" type="462c0819:PsiDirectoryNode" />
               <item name="dir{file:///home/hmon/IdeaProjects/DSA/gradle/wrapper}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="DSA" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main/java/org/example}" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,42 +194,6 @@
                 </attributes>
                 <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text=".gradle" />
                 <item name="dir{file:///home/hmon/IdeaProjects/DSA/.gradle}" type="462c0819:PsiDirectoryNode" />
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/.gradle/8.14" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="8.14" />
-                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/.gradle/8.14}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/.gradle/buildOutputCleanup" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="buildOutputCleanup" />
-                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/.gradle/buildOutputCleanup}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/.gradle/vcs-1" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="vcs-1" />
-                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/.gradle/vcs-1}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/.gradle/file-system.probe" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/fileTypes/unknown.svg" iconPlugin="com.intellij" isLeaf="true" text="file-system.probe" />
-                  <item name="file-system.probe" type="ab9368bb:PsiFileNode" />
-                </presentation>
               </presentation>
               <presentation>
                 <attributes>
@@ -232,42 +212,6 @@
                 </attributes>
                 <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="build" />
                 <item name="dir{file:///home/hmon/IdeaProjects/DSA/build}" type="462c0819:PsiDirectoryNode" />
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/build/classes" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="classes" />
-                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/build/classes}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/build/generated" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="generated" />
-                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/build/generated}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/build/reports" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="reports" />
-                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/build/reports}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
-                <presentation>
-                  <attributes>
-                    <map>
-                      <entry key="filePath" value="$PROJECT_DIR$/build/tmp" />
-                    </map>
-                  </attributes>
-                  <data iconPath="expui/nodes/excludeRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="tmp" />
-                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/build/tmp}" type="462c0819:PsiDirectoryNode" />
-                </presentation>
               </presentation>
               <presentation>
                 <attributes>
@@ -313,6 +257,69 @@
                 </attributes>
                 <data iconPath="expui/nodes/folder.svg" iconPlugin="com.intellij" isLeaf="false" text="src" />
                 <item name="dir{file:///home/hmon/IdeaProjects/DSA/src}" type="462c0819:PsiDirectoryNode" />
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/main" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="main" />
+                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/java" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/sourceRoot.svg" iconPlugin="com.intellij" isLeaf="false" text="java" />
+                    <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main/java}" type="462c0819:PsiDirectoryNode" />
+                    <presentation>
+                      <attributes>
+                        <map>
+                          <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example" />
+                        </map>
+                      </attributes>
+                      <data iconPath="expui/nodes/package.svg" iconPlugin="com.intellij" isLeaf="false" text="org.example" />
+                      <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main/java/org/example}" type="462c0819:PsiDirectoryNode" />
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/LinkedList.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="LinkedList" />
+                        <item name="LinkedList" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                      <presentation>
+                        <attributes>
+                          <map>
+                            <entry key="filePath" value="$PROJECT_DIR$/src/main/java/org/example/Main.java" />
+                          </map>
+                        </attributes>
+                        <data iconPath="expui/nodes/class.svg" iconPlugin="com.intellij" isLeaf="true" text="Main" />
+                        <item name="Main" type="1a9f42e2:ClassTreeNode" />
+                      </presentation>
+                    </presentation>
+                  </presentation>
+                  <presentation>
+                    <attributes>
+                      <map>
+                        <entry key="filePath" value="$PROJECT_DIR$/src/main/resources" />
+                      </map>
+                    </attributes>
+                    <data iconPath="expui/nodes/resourcesRoot.svg" iconPlugin="com.intellij" isLeaf="true" text="resources" />
+                    <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/main/resources}" type="462c0819:PsiDirectoryNode" />
+                  </presentation>
+                </presentation>
+                <presentation>
+                  <attributes>
+                    <map>
+                      <entry key="filePath" value="$PROJECT_DIR$/src/test" />
+                    </map>
+                  </attributes>
+                  <data iconPath="expui/nodes/module.svg" iconPlugin="com.intellij" isLeaf="false" text="test" />
+                  <item name="dir{file:///home/hmon/IdeaProjects/DSA/src/test}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+                </presentation>
               </presentation>
               <presentation>
                 <attributes>
@@ -390,7 +397,7 @@
   </component>
   <component name="TerminalArrangementManager">
     <option name="myTabStates">
-      <TerminalTabState tabName="Local" />
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" />
     </option>
   </component>
   <component name="TerminalTabsStorage">
@@ -407,31 +414,31 @@
   </component>
   <component name="ToolWindowManager">
     <layoutV2>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38249213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12682292" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.4355916" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.4355916" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.4355916" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.4236111" />
       <window_info anchor="bottom" id="Services" order="4" weight="0.32967556" />
       <window_info anchor="bottom" id="Build" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.4355916" />
+      <window_info anchor="bottom" id="Run" order="6" show_stripe_button="false" weight="0.4236111" />
       <window_info anchor="bottom" id="Debug" order="7" show_stripe_button="false" weight="0.4355916" />
       <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
       <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
       <window_info anchor="right" id="Database" order="2" weight="0.25" />
-      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.39984226" />
+      <window_info active="true" anchor="right" id="Gradle" order="3" visible="true" weight="0.13255209" />
       <window_info anchor="right" id="Maven" order="4" weight="0.25" />
-      <unified_weights bottom="0.4355916" left="0.38249213" right="0.39984226" />
+      <unified_weights bottom="0.4236111" left="0.12682292" right="0.13255209" />
     </layoutV2>
     <recentWindows>
+      <value>Run</value>
       <value>Project</value>
       <value>Terminal</value>
       <value>Version Control</value>
       <value>Problems View</value>
       <value>Debug</value>
-      <value>Run</value>
       <value>Gradle</value>
       <value>Services</value>
     </recentWindows>
@@ -449,22 +456,22 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="521" height="402" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1754683262484" />
-    <state width="1810" height="404" key="GridCell.Tab.0.bottom" timestamp="1754685975289">
+    <state width="534" height="405" key="GridCell.Tab.0.bottom" timestamp="1754828525261">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1810" height="404" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1754685975289" />
-    <state width="1810" height="404" key="GridCell.Tab.0.center" timestamp="1754685975289">
+    <state width="534" height="405" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1754828525261" />
+    <state width="534" height="405" key="GridCell.Tab.0.center" timestamp="1754828525260">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1810" height="404" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1754685975289" />
-    <state width="1810" height="404" key="GridCell.Tab.0.left" timestamp="1754685975289">
+    <state width="534" height="405" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1754828525260" />
+    <state width="534" height="405" key="GridCell.Tab.0.left" timestamp="1754828525260">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1810" height="404" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1754685975289" />
-    <state width="1810" height="404" key="GridCell.Tab.0.right" timestamp="1754685975289">
+    <state width="534" height="405" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1754828525260" />
+    <state width="534" height="405" key="GridCell.Tab.0.right" timestamp="1754828525261">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1810" height="404" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1754685975289" />
+    <state width="534" height="405" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1754828525261" />
     <state width="1810" height="404" key="GridCell.Tab.1.bottom" timestamp="1754685975289">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -485,10 +492,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="-1" y="67" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1754587214156" />
-    <state x="372" y="115" width="526" height="581" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1754581841529">
+    <state x="371" y="95" width="526" height="581" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1754828415654">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="372" y="115" width="526" height="581" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1754581841529" />
+    <state x="371" y="95" width="526" height="581" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1754828415654" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/main/java/org/sub/sub/hello.java" />
@@ -502,28 +509,28 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="45" column="9" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/example/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="419">
+        <state relative-caret-position="1144">
           <caret line="44" selection-start-line="44" selection-end-line="44" />
           <folding>
-            <element signature="e#1992#1993#0" expanded="true" />
-            <element signature="e#2040#2041#0" expanded="true" />
+            <element signature="e#2080#2081#0" expanded="true" />
+            <element signature="e#2128#2129#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/example/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="338">
-          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        <state relative-caret-position="519">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>

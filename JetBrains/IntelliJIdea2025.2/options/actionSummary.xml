@@ -31,7 +31,7 @@
       <i c="14" l="1754684470189" />
     </e>
     <e n="EditorBackSpace">
-      <i c="692" l="1754685541695" />
+      <i c="705" l="1754828421871" />
     </e>
     <e n="EditorChooseLookupItem">
       <i c="4" l="1754562885228" />
@@ -40,10 +40,10 @@
       <i c="112" l="1754685535956" />
     </e>
     <e n="EditorEscape">
-      <i c="116" l="1754683968672" />
+      <i c="117" l="1754828397507" />
     </e>
     <e n="EditorTab">
-      <i c="24" l="1754594054183" />
+      <i c="26" l="1754828393999" />
     </e>
     <e n="EditorTabsEntryPoint">
       <i c="1" l="1754562831154" />
@@ -55,7 +55,7 @@
       <i c="1" l="1754567140070" />
     </e>
     <e n="ExpandLiveTemplateByTab">
-      <i c="6" l="1754587647892" />
+      <i c="7" l="1754828405608" />
     </e>
     <e n="GotoTypeDeclaration">
       <i c="1" l="1754685403484" />
@@ -88,7 +88,7 @@
       <i c="1" l="1754582776566" />
     </e>
     <e n="PasteMultiple">
-      <i c="6" l="1754581839485" />
+      <i c="7" l="1754828408879" />
     </e>
     <e n="RedesignedRunConfigurationSelector">
       <i c="2" l="1754562804036" />
@@ -100,7 +100,7 @@
       <i c="1" l="1754581458811" />
     </e>
     <e n="Run">
-      <i c="56" l="1754684443832" />
+      <i c="59" l="1754828499175" />
     </e>
     <e n="SettingsEntryPoint">
       <i c="7" l="1754582293861" />
@@ -145,7 +145,7 @@
       <i c="1" l="1754583238757" />
     </e>
     <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
-      <i c="711" l="1754685541691" />
+      <i c="725" l="1754828513597" />
     </e>
     <e n="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction">
       <i c="2" l="1754587760856" />

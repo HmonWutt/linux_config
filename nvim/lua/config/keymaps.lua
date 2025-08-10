@@ -10,13 +10,13 @@ vim.keymap.set("n", "<leader>fh", ":Telescope help_tags<cr>")
 vim.keymap.set("n", "<leader>e", ":NvimTreeFindFileToggle<cr>")
 
 -- icon picker
-vim.keymap.set("n", "<leader>ic", ":IconPickerNormal<cr>", { noremap = true, silent = true })
+-- vim.keymap.set("n", "<leader>ic", ":IconPickerNormal<cr>", { noremap = true, silent = true })
 
 -- twilight
-vim.keymap.set("n", "<leader>il", ":Twilight<cr>")
+-- vim.keymap.set("n", "<leader>il", ":Twilight<cr>")
 
 -- zen mode
-vim.keymap.set("n", "<leader>zm", ":ZenMode<cr>")
+-- vim.keymap.set("n", "<leader>zm", ":ZenMode<cr>")
 
 --format code using LSP
 vim.keymap.set("n", "<leader>f", vim.lsp.buf.format)
@@ -44,16 +44,32 @@ vim.keymap.set("n", "<leader>t", ":ToggleTerm<cr>")
 --vim.keymap.set('n', '<leader>gi', ":lua require('goto-preview').goto_preview_implementation()<CR>")
 --vim.keymap.set('n', '<leader>gp', ":lua require('goto-preview').close_all_win()<CR>")
 
--- Enhanced version that shows output better
-vim.keymap.set("n", "<cr>", function()
+-- Run Python file in terminal with leader+enter
+vim.keymap.set("n", "<leader><cr>", function()
   if vim.bo.filetype == "python" then
     local file = vim.fn.expand("%")
     vim.cmd("write") -- Save first
-    vim.cmd("!python3 " .. vim.fn.shellescape(file) .. "") --" && echo 'Press any key to continue...' && read")
-  else
-    -- Preserve default Enter behavior
-    vim.api.nvim_feedkeys(vim.api.nvim_replace_termcodes("<cr>", true, false, true), "n", false)
+    
+    local Terminal = require('toggleterm.terminal').Terminal
+    local python_term = Terminal:new({
+      cmd = "python3 " .. vim.fn.shellescape(file),
+      direction = "horizontal",
+      size = 15,
+      close_on_exit = false,
+      on_open = function(term)
+        vim.cmd("startinsert!")
+      end,
+    })
+    python_term:toggle()
   end
-end, { desc = "Run Python file or default Enter" })
+end, { desc = "Run Python file in terminal" })
 
+-- Example keymaps for buffer navigation
+vim.keymap.set('n', '<Tab>', ':BufferLineCycleNext<CR>')
+vim.keymap.set('n', '<S-Tab>', ':BufferLineCyclePrev<CR>')
+vim.keymap.set('n', '<leader>1', ':BufferLineGoToBuffer 1<CR>')
+vim.keymap.set('n', '<leader>2', ':BufferLineGoToBuffer 2<CR>')
+-- ... etc
 
+-- Close buffers
+vim.keymap.set('n', '<leader>X', ':BufferLinePickClose<CR>')

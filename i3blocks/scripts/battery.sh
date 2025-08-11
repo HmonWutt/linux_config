@@ -63,12 +63,10 @@ else
         ICON="󰁿"
     elif [ "$CAPACITY" -ge 30 ]; then
         ICON="󰁽"
-    elif [ "$CAPACITY" -le 29 ]; then
+    elif [ "$CAPACITY" -ge 10 ]; then
         ICON="󰁻"
-    elif [ "$CAPACITY" -le 10 ]; then
-	ICON="󰁺"
     else
-        ICON=""
+        ICON="󰁺"  # Critical battery (below 10%)
     fi
 fi
 

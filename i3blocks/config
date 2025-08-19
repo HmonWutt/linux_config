@@ -14,6 +14,11 @@ separator_block_width=20
 [date]
 command=~/.config/i3blocks/scripts/date.sh
 interval=60
+separator=false
+
+[day]
+command=~/.config/i3blocks/scripts/day.sh
+interval=60
 separator_block_width=20
 
 [time]
